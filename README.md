@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jeremy! <br/><a href="https://github.com/jeremy-schoeneman">Cybersecurity Enthusiast</a>, <a href="www.linkedin.com/in/jeremyschoeneman">IT Professional</a>, <a href="https://www.youtube.com/channel/UCZIbKjRCDwqaeUgqvXcJi9g">YouTuber</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
