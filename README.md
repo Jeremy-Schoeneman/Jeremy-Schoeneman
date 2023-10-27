@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeremy! <br/><a href="https://github.com/jeremy-schoeneman">Cybersecurity Enthusiast</a>, <a href="www.linkedin.com/in/jeremyschoeneman">IT Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Jeremy! <br/><a href="https://github.com/jeremy-schoeneman">Cybersecurity Enthusiast</a>, <a href="www.linkedin.com/in/jeremyschoeneman">IT Professional</a>, <a href="[https://www.youtube.com/c/joshmadakor](https://www.youtube.com/channel/UCZIbKjRCDwqaeUgqvXcJi9g)">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
