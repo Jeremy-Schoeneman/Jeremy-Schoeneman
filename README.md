@@ -1,7 +1,7 @@
 <h1>Hi, I'm Jeremy! <br/><a href="https://github.com/jeremy-schoeneman">Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/jeremyschoeneman">IT Professional</a>, <a href="https://www.youtube.com/channel/UCZIbKjRCDwqaeUgqvXcJi9g">YouTuber</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects </h2>
-- [My projects](https://github.com/Jeremy-Schoeneman/Projects)
+<h2> <a href="https://github.com/Jeremy-Schoeneman/Projects">👨‍💻 Cybersecurity Projects </h2></a>
+
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
